@@ -1,2 +1,2 @@
 # test-esgm
-Repositorio de prueba para la plática del grupo de Earth Science. 
+Repositorio de prueba para la plática en ESMG. 
